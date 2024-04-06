@@ -1,0 +1,8 @@
+3 Main Pipelines of RAG 
+- Ingestion 
+- Retreival 
+- Generation 
+
+In the below code , a sample Corpus of documents are created and calculated the Cosine Similarity with the User Query. 
+OPen AI model was used to ask a question before and after using the RAG.  
+
